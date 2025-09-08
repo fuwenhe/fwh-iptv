@@ -1,5 +1,4 @@
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7545 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-15, URL: http://121.60.56.116:10001/rtp/239.69.1.155:10566, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 394 ms, Speed: 0.08 M/s, Resolution: 0x0
-Name: CCTV-4, URL: http://121.60.56.116:10001/rtp/239.69.1.138:10466, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 440 ms, Speed: 0.09 M/s, Resolution: None
-Name: CCTV-5, URL: http://121.60.56.116:10001/rtp/239.69.1.123:10376, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 396 ms, Speed: 0.12 M/s, Resolution: None
-Name: CCTV-16, URL: http://121.60.56.116:10001/rtp/239.69.1.247:11124, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 439 ms, Speed: 0.22 M/s, Resolution: None
+Name: CCTV-16, URL: http://121.60.56.116:10001/rtp/239.69.1.247:11124, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://121.60.56.116:10001/rtp/239.69.1.123:10376, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://121.60.56.116:10001/rtp/239.69.1.138:10466, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7509 ms, Speed: 0.33 M/s, Resolution: 1920x1080
