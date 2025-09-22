@@ -1,14 +1,4 @@
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://ygbh.site/php/bfgd.php?id=063
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
-CCTV-10,http://ygbh.site/php/bfgd.php?id=129
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130
-CCTV-12,http://ygbh.site/php/bfgd.php?id=131
-CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
