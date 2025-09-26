@@ -1,5 +1,5 @@
-Name: CCTV-9, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv9, IPv_Type: ipv4, Location: 中国-江苏-徐州, ISP: 电信, Date: None, Delay: 2397 ms, Speed: 1.63 M/s, Resolution: None
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7502 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv17, IPv_Type: ipv4, Location: 中国-江苏-徐州, ISP: 电信, Date: None, Delay: 5117 ms, Speed: 1.19 M/s, Resolution: None
-Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 882 ms, Speed: 0.04 M/s, Resolution: None
-Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1484 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-9, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv9, IPv_Type: ipv4, Location: 中国-江苏-徐州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-17, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv17, IPv_Type: ipv4, Location: 中国-江苏-徐州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7338 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1009 ms, Speed: 0.03 M/s, Resolution: 0x0
+Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 867 ms, Speed: 0.03 M/s, Resolution: None
