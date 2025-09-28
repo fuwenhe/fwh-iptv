@@ -1,5 +1,7 @@
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7499 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-15, URL: http://1.180.2.93:9901/tsfile/live/0015_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 7880 ms, Speed: 0.48 M/s, Resolution: None
-Name: CCTV-14, URL: http://1.180.2.93:9901/tsfile/live/0014_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 9957 ms, Speed: 0.36 M/s, Resolution: None
-Name: CCTV-9, URL: http://1.180.2.93:9901/tsfile/live/0009_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 10459 ms, Speed: 0.28 M/s, Resolution: None
-Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 569 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-1, URL: https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7487 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://ha.wheel.duolebo.com/live.m3u8?p=bea7cd5b-d4cd-4d5f-9408-eb6df9ce08f3&c=1857461344&m3u8=true, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 腾讯云, Date: None, Delay: 128 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-15, URL: http://1.180.2.93:9901/tsfile/live/0015_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 10524 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-14, URL: http://1.180.2.93:9901/tsfile/live/0014_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 10518 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 970 ms, Speed: 0.05 M/s, Resolution: None
