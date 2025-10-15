@@ -1,3 +1,2 @@
-Name: CCTV-11, URL: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8, IPv_Type: ipv4, Location: 美国-马萨诸塞州-萨福克县, ISP: 网宿科技有限公司节点, Date: None, Delay: 730 ms, Speed: 3.65 M/s, Resolution: 1066x600
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7369 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 922 ms, Speed: 0.01 M/s, Resolution: 3840x2160
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7394 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 795 ms, Speed: 0.01 M/s, Resolution: 3840x2160
