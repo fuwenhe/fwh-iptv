@@ -1,3 +1,8 @@
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
+CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
+CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
+CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
