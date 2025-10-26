@@ -1,4 +1,2 @@
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7429 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://sh.lnott.top:880/dx17.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10758 ms, Speed: 0.29 M/s, Resolution: 1920x1080
-Name: CCTV-11, URL: http://sh.lnott.top:880/dx11.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10762 ms, Speed: 0.16 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1041 ms, Speed: 0.01 M/s, Resolution: 3840x2160
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7330 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://zqh2333.top:2222/rtp/239.93.55.54:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 786 ms, Speed: 0.01 M/s, Resolution: 3840x2160
