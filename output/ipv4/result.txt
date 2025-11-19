@@ -1,6 +1,5 @@
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
-CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
