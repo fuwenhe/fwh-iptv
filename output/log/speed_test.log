@@ -1,7 +1,5 @@
-Name: CCTV-14, URL: http://183.238.86.52:4022/rtp/239.10.0.212:1025, IPv_Type: ipv4, Location: 中国-广东-中山, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.143:5140, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7, URL: http://183.220.107.138:4022/rtp/239.11.0.110:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 471 ms, Speed: 0.78 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 452 ms, Speed: 0.75 M/s, Resolution: 1920x1080
-Name: CCTV-11, URL: http://183.220.107.138:4022/rtp/239.11.0.22:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 466 ms, Speed: 0.74 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 450 ms, Speed: 0.82 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 489 ms, Speed: 0.40 M/s, Resolution: None
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 469 ms, Speed: 0.52 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://183.220.107.138:4022/rtp/239.11.0.110:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 459 ms, Speed: 0.81 M/s, Resolution: 1920x1080
+Name: CCTV-11, URL: http://183.220.107.138:4022/rtp/239.11.0.22:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 466 ms, Speed: 0.81 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 454 ms, Speed: 0.83 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 507 ms, Speed: 0.07 M/s, Resolution: None
