@@ -1,5 +1,5 @@
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 377 ms, Speed: 0.97 M/s, Resolution: 1920x1080
-Name: CCTV-11, URL: http://183.220.107.138:4022/rtp/239.11.0.22:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 393 ms, Speed: 0.97 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://183.220.107.138:4022/rtp/239.11.0.110:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 390 ms, Speed: 0.72 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 382 ms, Speed: 0.97 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 403 ms, Speed: 0.19 M/s, Resolution: None
+Name: CCTV-11, URL: http://183.220.107.138:4022/rtp/239.11.0.22:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 390 ms, Speed: 0.83 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://183.220.107.138:4022/rtp/239.11.0.110:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 383 ms, Speed: 0.22 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 397 ms, Speed: 0.88 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 370 ms, Speed: 0.48 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 405 ms, Speed: 0.22 M/s, Resolution: None
