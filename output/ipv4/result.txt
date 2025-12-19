@@ -1,3 +1,6 @@
 📺央视频道,#genre#
+CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-11,http://yp.qqqtv.top/bc/bc.php?id=CCTV-11+%E6%88%8F%E6%9B%B2&auth=66615415
+CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
+CCTV-14,http://yp.qqqtv.top/1/api.php?id=CCTV-14HD&auth=666858
+CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
