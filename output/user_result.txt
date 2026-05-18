@@ -7,7 +7,6 @@ CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4,http://hao6688.3322.org:30066/stream/channelid/722781944?ticket=87f224de949a7a0ebd5a4cf1f8a480d4abdf729f&profile=pass
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
@@ -36,8 +35,10 @@ CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
+CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
+CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 CCTV-16,http://192.151.150.154/live/cctv16hd.m3u8
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
