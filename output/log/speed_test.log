@@ -1,4 +1,6 @@
-Name: CCTV-9, URL: http://198.204.228.26/live/cctv9hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 241 ms, Speed: 19.50 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://www.negative.top:50000/rtp/233.50.200.109:5140, IPv_Type: ipv4, Location: 中国-浙江-宁波, ISP: 电信, Date: None, Delay: 462 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 2125 ms, Speed: 0.48 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2924 ms, Speed: 0.47 M/s, Resolution: None
+Name: CCTV-13, URL: http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux, IPv_Type: ipv4, Location: 瑞典, ISP: , Date: None, Delay: 94 ms, Speed: 8.37 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://198.204.228.26/live/cctv9hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 935 ms, Speed: 5.69 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 1761 ms, Speed: 0.56 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2779 ms, Speed: 0.61 M/s, Resolution: None
+Name: CCTV-6, URL: http://www.negative.top:50000/rtp/233.50.200.109:5140, IPv_Type: ipv4, Location: 中国-浙江-宁波, ISP: 电信, Date: None, Delay: 774 ms, Speed: 0.30 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://221.193.168.224:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河北-邯郸, ISP: 联通, Date: None, Delay: 10225 ms, Speed: 0.00 M/s, Resolution: None
