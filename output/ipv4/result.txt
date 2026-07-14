@@ -4,4 +4,3 @@ CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-11,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8
