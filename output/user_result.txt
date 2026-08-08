@@ -9,8 +9,8 @@ CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
