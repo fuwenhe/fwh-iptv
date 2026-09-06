@@ -1,6 +1,5 @@
-Name: CCTV-17, URL: https://live.264788.xyz/channel/cctv17, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 51 ms, Speed: 128.76 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 105 ms, Speed: 70.05 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 2115 ms, Speed: 0.46 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3051 ms, Speed: 0.53 M/s, Resolution: None
-Name: CCTV-5, URL: http://115.171.216.32:4000/rtp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 511 ms, Speed: 0.83 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://101.66.195.43:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: 10170 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 72 ms, Speed: 112.16 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: https://live.264788.xyz/channel/cctv17, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 103 ms, Speed: 80.29 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://115.171.216.32:4000/rtp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 410 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2452 ms, Speed: 0.64 M/s, Resolution: None
+Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 1883 ms, Speed: 0.55 M/s, Resolution: 1920x1080
