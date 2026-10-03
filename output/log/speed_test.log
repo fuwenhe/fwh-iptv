@@ -1,6 +1,5 @@
-Name: CCTV-17, URL: https://live.264788.xyz/channel/cctv17, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 77 ms, Speed: 98.39 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 154 ms, Speed: 49.66 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 1932 ms, Speed: 0.49 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2561 ms, Speed: 0.62 M/s, Resolution: None
-Name: CCTV-5, URL: http://115.171.216.32:4000/rtp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 1447 ms, Speed: 0.77 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d59f6aa673404ffa630e5132359, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 64 ms, Speed: 100.39 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: https://live.264788.xyz/channel/cctv17, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 56 ms, Speed: 121.80 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 1708 ms, Speed: 0.57 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2431 ms, Speed: 0.63 M/s, Resolution: None
+Name: CCTV-5, URL: http://115.171.216.32:4000/rtp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 423 ms, Speed: 0.87 M/s, Resolution: 1920x1080
